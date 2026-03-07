@@ -10,5 +10,5 @@ El uso de los materiales contenidos en este repositorio se encuentra sujeto a pr
 4.	Se recomienda revisar la documentación metodológica y los metadatos antes de realizar análisis secundarios.
 5.	En caso de utilizar los datos, scripts o materiales contenidos en este repositorio, se solicita citar el proyecto de investigación correspondiente y, cuando sea pertinente, las publicaciones académicas asociadas.
    
-Contacto 
+
 Para consultas sobre el repositorio, acceso a documentación adicional o colaboración académica, se puede contactar al equipo de investigación del proyecto.
