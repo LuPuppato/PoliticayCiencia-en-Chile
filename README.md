@@ -1,5 +1,5 @@
-#Revisitando la relación entre política y ciencia.
-#Una mirada sociológica a las trayectorias, efectos y tensiones de la política científica chilena
+#Revisitando la relación entre política y ciencia#
+#Una mirada sociológica a las trayectorias, efectos y tensiones de la política científica chilena#
 
 Este repositorio reúne los principales resultados, materiales analíticos y productos derivados del proyecto FONDECYT, con el propósito de favorecer la transparencia científica, y el acceso abierto al conocimiento generado por la investigación con financiamiento estatal.
 El repositorio contiene informes estadísticos, bases de datos procesadas, scripts de análisis, documentación metodológica y materiales de apoyo que permiten comprender los procedimientos utilizados en la producción de resultados presentados en informes, artículos científicos y presentaciones académicas vinculadas al proyecto.
